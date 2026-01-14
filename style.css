@@ -271,3 +271,14 @@ span {
         padding: 12px 10px;
     }
 }
+
+li{
+    margin-bottom: 15px;
+}
+
+ul{
+    border: 2px solid black;
+    padding: 10px;
+    padding-left: 25px;
+    border-radius: 10px;
+}
